@@ -8,7 +8,7 @@
     "express": "^4.17.1",
     "jquery": "^3.5.1",
     "stripe": "^8.52.0",
-    "swiper": "^5.3.8"
+    "swiper": "^6.5.1"
   },
   "devDependencies": {
     "dotenv": "^8.2.0"
